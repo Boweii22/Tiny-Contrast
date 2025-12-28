@@ -71,7 +71,7 @@ const HelpModal = ({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }
               <p className="text-xs text-slate-400">Version 1.0.0 • Created with ❤️ for Designers</p>
             </div>
             <a 
-              href="https://github.com/yourusername/tiny-contrast" 
+              href="https://github.com/Boweii22/Tiny-Contrast" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 px-6 py-3 bg-slate-900 text-white rounded-xl text-sm font-bold hover:bg-black transition-all"
@@ -117,7 +117,7 @@ export default function Home() {
               <span className="material-symbols-outlined">help</span>
             </button>
             <a 
-              href="https://github.com/yourusername/tiny-contrast" 
+              href="https://github.com/Boweii22/Tiny-Contrast" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hidden md:flex hover:text-blue-600 transition-colors items-center gap-1"

@@ -13,8 +13,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tiny Contrast",
-  description: "Check color accessibility",
+  title: "Tiny Contrast - Color Accessibility Checker",
+  description: "Ensure your color combinations meet WCAG 2.1 accessibility standards with real-time contrast checking",
+  icons: {
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
+    apple: '/favicon.svg',
+  },
 };
 
 export default function RootLayout({
