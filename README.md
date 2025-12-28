@@ -29,7 +29,7 @@ A modern, accessible color contrast checker that helps designers and developers 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tiny-contrast.git
+   git clone https://github.com/Boweii22/Tiny-Contrast
    cd tiny-contrast
    ```
 
@@ -85,4 +85,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-Made with ❤️ by [Your Name] - [@yourtwitter](https://twitter.com/yourtwitter)
+Made with ❤️ by [Bowei Tombri] - [@tombri-bowei](https://www.linkedin.com/in/tombri-bowei-176912294/)
