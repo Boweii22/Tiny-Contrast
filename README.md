@@ -1,4 +1,6 @@
 # Tiny Contrast
+<img width="1920" height="1440" alt="390shots_so" src="https://github.com/user-attachments/assets/92b33366-1f0e-473e-a20c-939a4b5840ce" />
+
 
 A modern, accessible color contrast checker that helps designers and developers ensure their color combinations meet WCAG 2.1 accessibility standards.
 
