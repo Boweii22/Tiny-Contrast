@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Tiny Contrast
 
-## Getting Started
+A modern, accessible color contrast checker that helps designers and developers ensure their color combinations meet WCAG 2.1 accessibility standards.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Real-time Contrast Checking**: Instantly see the contrast ratio between text and background colors
+- **WCAG 2.1 Compliance**: Automatic validation against AA and AAA standards
+- **Live Preview**: Visualize how your colors will look in real UI components
+- **Color Suggestions**: Get accessible color recommendations
+- **Responsive Design**: Works perfectly on all devices
+- **Copy to Clipboard**: Easily copy color values and CSS code
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Built With
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [Next.js](https://nextjs.org/) - The React Framework for Production
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
+- [TypeScript](https://www.typescriptlang.org/) - TypeScript is JavaScript with syntax for types
+- [Framer Motion](https://www.framer.com/motion/) - Production-ready animation library for React
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Getting Started
 
-## Learn More
+### Prerequisites
 
-To learn more about Next.js, take a look at the following resources:
+- Node.js 16.14.0 or later
+- npm or yarn package manager
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Installation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/tiny-contrast.git
+   cd tiny-contrast
+   ```
 
-## Deploy on Vercel
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. Start the development server:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+## 🎨 How to Use
+
+1. **Select Colors**:
+   - Use the color picker or enter hex/RGB values
+   - Swap between text and background colors with a single click
+
+2. **Check Compliance**:
+   - View real-time contrast ratio
+   - See if your colors pass WCAG 2.1 AA/AAA standards
+
+3. **Preview**:
+   - See how your colors look on different UI elements
+   - Test with various text sizes and styles
+
+## 🤝 Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## 🙏 Acknowledgments
+
+- [WCAG 2.1 Guidelines](https://www.w3.org/TR/WCAG21/)
+- [Contrast Ratio](https://contrast-ratio.com/) for inspiration
+- All contributors who have helped shape this project
+
+---
+
+Made with ❤️ by [Your Name] - [@yourtwitter](https://twitter.com/yourtwitter)
